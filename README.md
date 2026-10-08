@@ -71,3 +71,6 @@ Al servidor, sudo cat /var/lib/dhcp4.leases dona l’error “No such file or di
 ![](/img/18_Comando_ip_a_estado_red.png)
 
 Es mostren les interfícies del servidor: enp0s3 amb 10.0.2.15 (NAT), enp0s8 amb 192.168.50.10/24 i enp0s9 amb 192.168.56.103 assignada dinàmicament. Serveix per saber quina interfície pertany a cada xarxa abans de configurar Kea.
+
+## Enllaç Github
+https://github.com/jeanda01013-tech/AA2-Avaluaci-Server-DHCPs
